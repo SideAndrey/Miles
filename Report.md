@@ -10,4 +10,4 @@ public class Main {
     }
 }
 Результат: 
-<img src="img/bottle-left.jpg">
+<img src="main.png">
