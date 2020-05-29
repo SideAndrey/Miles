@@ -1,5 +1,7 @@
 Miles.java
+
 Был написан код 
+
 public class Main {
     public static void main(String [] args) {
         int ticketprice = 12000;
@@ -9,5 +11,6 @@ public class Main {
         
     }
 }
+
 Результат: 
 <img src="main.png">
